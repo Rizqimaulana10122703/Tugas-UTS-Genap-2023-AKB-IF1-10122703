@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">catatan-10122703</string>
+    <string name="profile">NIM: 10122703\nNama: Mochammad Rizqi Maulana\nKelas: IF-6\nEmail: rizqi.10122703.@mahasiswa.unikom.ac.id</string>
+    <string name="pembuka">CatatanHarian adalah aplikasi yang di pergunakan menulis kegiatan-kegiatan yang akan atau telah dilakukan . Terdapat menu Home, Profile, serta Infomasi yang terkait denganaplikasi ini.</string>
+
+    <string name="menu_home">• Menu Home: Pada halaman Home pengguna dapat melakukan menambah kegiatan baik yang sudah dijalani maupun akan dijalanin sebagai reminder dengan menambahkan judul dan isi dari kegiatan,terdapat fungsi hapus dan edit untuk setiap kegiatan.</string>
+    <string name="menu_profile">• Menu Profile: Pada menu ini terdapat informasi yang bersangkutan dengan pembuat aplikasi.</string>
+    <string name="menu_informasi">• Menu Informasi: Pada menu ini terdapat informasi mengenai fitur dan kegunaan aplikasi ini.</string>
+    <string name="copyright">©10122703</string>
+
+    <string name="title">Judul</string>
+    <string name="category">kategori</string>
+    <string name="des">mulai menambahkan kegiatan</string>
+
+    <string name="page1">Page 1 of 3</string>
+    <string name="page2">Page 2 of 3</string>
+    <string name="page3">Page 3 of 3</string>
+    <string name="memo">Selamat Menambahkan Kegiatan</string>
+    <string name="penjelasan"> Pertama Klik icon + untuk menambah kegiatan</string>
+    <string name="txt_add">Tambah kegiatan</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+</resources>
